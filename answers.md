@@ -69,5 +69,19 @@ To https://github.com/nw121121/git--lab-.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 
-answer 10 nw121121@Ohio.edu I love github 
+answer 10 no 
+
+answer 11 To https://github.com/nw121121/git--lab-.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/nw121121/git--lab-.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+answer 12 No the changes were rejected 
+
+answer 13 
+
 
