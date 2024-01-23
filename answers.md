@@ -80,8 +80,12 @@ hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
+<<<<<<< HEAD
 answer 12 No the changes were rejected 
 
 answer 13 
 
+=======
+answer 12 No the changes were rejected  
+>>>>>>> 984edf1f0dc4e79f90d91c5b9fc0d6b058d46d74
 
